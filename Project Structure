@@ -3,7 +3,7 @@ base-reputation-streak/
 │   └── ReputationStreak.sol
 ├── scripts/
 │   ├── deoy.js
-│   ├── chen.js
+│   ├── chn.js
 │   └── re
 ├── hardht.conig.js
 ├── package.json
