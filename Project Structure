@@ -2,7 +2,7 @@ base-reputation-streak/
 ├── concts/
 │   └── ReputationStreak.sol
 ├── scripts/
-│   ├── deploy.js
+│   ├── deoy.js
 │   ├── chen.js
 │   └── re
 ├── hardhat.config.js
