@@ -3,7 +3,7 @@ base-reputation-streak/
 │   └── ReputationStreak.sol
 ├── scripts/
 │   ├── deploy.js
-│   ├── checin.js
+│   ├── chen.js
 │   └── re
 ├── hardhat.config.js
 ├── package.json
