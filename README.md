@@ -78,3 +78,15 @@ Scripts are provided to:
 
 ## 📂 Repository Structure
 
+
+---
+
+## 🚀 Usage
+
+### Install dependencies
+```bash
+npm install
+npm run compile
+npm run deploy
+npm run checkin
+npm run read
