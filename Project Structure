@@ -1,5 +1,5 @@
 base-reputation-streak/
-├── contracts/
+├── contacts/
 │   └── ReputationStreak.sol
 ├── scripts/
 │   ├── deploy.js
