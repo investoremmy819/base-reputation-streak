@@ -4,7 +4,7 @@ base-reputation-streak/
 ├── scripts/
 │   ├── deploy.js
 │   ├── checkin.js
-│   └── read.js
+│   └── read.
 ├── hardhat.config.js
 ├── package.json
 ├── .
