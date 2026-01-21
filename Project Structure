@@ -1,0 +1,11 @@
+base-reputation-streak/
+├── contracts/
+│   └── ReputationStreak.sol
+├── scripts/
+│   ├── deploy.js
+│   ├── checkin.js
+│   └── read.js
+├── hardhat.config.js
+├── package.json
+├── .gitignore
+└── README.md
