@@ -1,0 +1,15 @@
+{
+  "name": "base-reputation-streak",
+  "version": "1.0.0",
+  "description": "Onchain reputation and streak system deployed on Base",
+  "scripts": {
+    "compile": "hardhat compile",
+    "deploy": "hardhat run scripts/deploy.js --network base",
+    "checkin": "hardhat run scripts/checkin.js --network base",
+    "read": "hardhat run scripts/read.js --network base"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  }
+}
