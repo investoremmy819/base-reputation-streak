@@ -5,7 +5,7 @@ base-reputation-streak/
 │   ├── deoy.js
 │   ├── chen.js
 │   └── re
-├── hardhat.conig.js
+├── hardht.conig.js
 ├── package.json
 ├── .
 └── README.md
