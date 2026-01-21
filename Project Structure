@@ -7,5 +7,5 @@ base-reputation-streak/
 │   └── read.js
 ├── hardhat.config.js
 ├── package.json
-├── .gitignore
+├── .
 └── README.md
