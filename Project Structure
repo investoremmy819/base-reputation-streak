@@ -1,5 +1,5 @@
 base-reputation-streak/
-├── contacts/
+├── concts/
 │   └── ReputationStreak.sol
 ├── scripts/
 │   ├── deploy.js
