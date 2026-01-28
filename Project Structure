@@ -20,7 +20,7 @@ This repository a production withnd verifiable o The goal is to demonstrate cons
 
 - Clear, incremental feature 
 - Clean and readable codebase
-- Reproducible build and deployment
+- Reproducible build
 - Publicly verifiable outputs (links, screenshots, logs)
 
 ## Tech Stack
